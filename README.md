@@ -7,8 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p align="center">
-1.Setup Database 
-2.JWT Authentication Setup.
-3.Create Registration API with full validated.
-</p>
+<p>1.Setup Database </p>
+<br>
+<p>2.JWT Authentication Setup.</p>
+<br>
+<p>3.Create Registration API with full validated.</p>
+<br>
+
+
+
