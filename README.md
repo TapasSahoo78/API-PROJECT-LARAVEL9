@@ -18,5 +18,9 @@
 2.Integrate Register API to register form.
 </p>
 
+<p align="center">
+1.Create Login API with validation. 
+2.Generate JWT Token and send in Response.
+</p>
 
 
